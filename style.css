@@ -1,0 +1,11 @@
+*{
+  color:blue;
+}
+
+nav li {
+  font-family: cursive;
+  display: inline;
+  padding: 10px;
+}
+
+nav li
